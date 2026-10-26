@@ -1,0 +1,21 @@
+<div id="chart"></div><script>const data = [{"Section":"A","Math":71.1,"Stats":71.3,"Python":76.0,"Databases":73.4,"English":69.1},{"Section":"B","Math":68.25,"Stats":69.17,"Python":71.33,"Databases":68.5,"English":64.25},{"Section":"C","Math":74.33,"Stats":69.67,"Python":73.0,"Databases":76.0,"English":65.0}];
+// data comes from Python (summary.json)
+const base = 250;                       // y of the x-axis
+let svg = `<svg width="460" height="300" font-family="Arial">`;
+svg += `<text x="230" y="24" text-anchor="middle"` +
+       ` font-weight="bold">Average Python by section</text>`;
+svg += `<line x1="40" y1="${base}" x2="440" y2="${base}"` +
+       ` stroke="black"/>`;
+data.forEach((d, i) => {
+  const h = d.Python * 2;               // 100 marks = 200 px
+  const x = 60 + i * 120;               // left edge of the bar
+  svg += `<rect x="${x}" y="${base - h}" width="80"` +
+         ` height="${h}" fill="#C2410C"/>`;
+  svg += `<text x="${x + 40}" y="${base - h - 6}"` +
+         ` text-anchor="middle">${d.Python}</text>`;
+  svg += `<text x="${x + 40}" y="${base + 20}"` +
+         ` text-anchor="middle">Section ${d.Section}</text>`;
+});
+svg += `</svg>`;
+document.getElementById("chart").innerHTML = svg;
+</script>

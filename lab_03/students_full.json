@@ -1,0 +1,227 @@
+[
+  {
+    "RollNo": "BSDS-01",
+    "Name": "Ali Khan",
+    "Section": "B",
+    "City": "Islamabad",
+    "Hostel": false,
+    "Average": 74.0,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-02",
+    "Name": "Sara Ahmed",
+    "Section": "A",
+    "City": "Lahore",
+    "Hostel": true,
+    "Average": 70.6,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-03",
+    "Name": "Bilal Hussain",
+    "Section": "B",
+    "City": "Peshawar",
+    "Hostel": true,
+    "Average": 61.0,
+    "FeeStatus": "Late"
+  },
+  {
+    "RollNo": "BSDS-04",
+    "Name": "Hina Malik",
+    "Section": "B",
+    "City": "Rawalpindi",
+    "Hostel": true,
+    "Average": 57.0,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-05",
+    "Name": "Omar Farooq",
+    "Section": "A",
+    "City": "Islamabad",
+    "Hostel": false,
+    "Average": 76.6,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-06",
+    "Name": "Ayesha Siddiqui",
+    "Section": "B",
+    "City": "Islamabad",
+    "Hostel": false,
+    "Average": 70.0,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-07",
+    "Name": "Usman Tariq",
+    "Section": "C",
+    "City": "Peshawar",
+    "Hostel": true,
+    "Average": 69.0,
+    "FeeStatus": "Late"
+  },
+  {
+    "RollNo": "BSDS-08",
+    "Name": "Fatima Noor",
+    "Section": "A",
+    "City": "Rawalpindi",
+    "Hostel": false,
+    "Average": 85.4,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-09",
+    "Name": "Hamza Raza",
+    "Section": "B",
+    "City": "Rawalpindi",
+    "Hostel": false,
+    "Average": 56.4,
+    "FeeStatus": "Unpaid"
+  },
+  {
+    "RollNo": "BSDS-10",
+    "Name": "Zainab Ali",
+    "Section": "A",
+    "City": "Rawalpindi",
+    "Hostel": false,
+    "Average": 64.2,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-11",
+    "Name": "Danish Iqbal",
+    "Section": "A",
+    "City": "Murree",
+    "Hostel": true,
+    "Average": 77.4,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-12",
+    "Name": "Maryam Shah",
+    "Section": "B",
+    "City": "Rawalpindi",
+    "Hostel": false,
+    "Average": 67.2,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-13",
+    "Name": "Talha Mehmood",
+    "Section": "A",
+    "City": "Islamabad",
+    "Hostel": false,
+    "Average": 70.2,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-14",
+    "Name": "Noor Fatima",
+    "Section": "B",
+    "City": "Islamabad",
+    "Hostel": false,
+    "Average": 77.6,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-15",
+    "Name": "Asad Mirza",
+    "Section": "A",
+    "City": "Peshawar",
+    "Hostel": true,
+    "Average": 47.0,
+    "FeeStatus": "Late"
+  },
+  {
+    "RollNo": "BSDS-16",
+    "Name": "Iqra Javed",
+    "Section": "B",
+    "City": "Murree",
+    "Hostel": true,
+    "Average": 64.8,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-17",
+    "Name": "Saad Anwar",
+    "Section": "A",
+    "City": "Islamabad",
+    "Hostel": false,
+    "Average": 80.8,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-18",
+    "Name": "Laiba Khan",
+    "Section": "C",
+    "City": "Islamabad",
+    "Hostel": false,
+    "Average": 89.6,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-19",
+    "Name": "Hassan Butt",
+    "Section": "A",
+    "City": "Rawalpindi",
+    "Hostel": false,
+    "Average": 78.8,
+    "FeeStatus": "Late"
+  },
+  {
+    "RollNo": "BSDS-20",
+    "Name": "Rabia Aslam",
+    "Section": "B",
+    "City": "Lahore",
+    "Hostel": true,
+    "Average": 100.0,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-21",
+    "Name": "Faisal Qureshi",
+    "Section": "C",
+    "City": "Rawalpindi",
+    "Hostel": false,
+    "Average": 56.2,
+    "FeeStatus": "Unpaid"
+  },
+  {
+    "RollNo": "BSDS-22",
+    "Name": "Mahnoor Zafar",
+    "Section": "B",
+    "City": "Islamabad",
+    "Hostel": false,
+    "Average": 58.8,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-23",
+    "Name": "Kamran Yousaf",
+    "Section": "B",
+    "City": "Lahore",
+    "Hostel": true,
+    "Average": 66.2,
+    "FeeStatus": "On time"
+  },
+  {
+    "RollNo": "BSDS-24",
+    "Name": "Sana Rauf",
+    "Section": "A",
+    "City": "Lahore",
+    "Hostel": true,
+    "Average": 70.8,
+    "FeeStatus": "Late"
+  },
+  {
+    "RollNo": "BSDS-25",
+    "Name": "Imran Haider",
+    "Section": "B",
+    "City": "Islamabad",
+    "Hostel": false,
+    "Average": 66.6,
+    "FeeStatus": "On time"
+  }
+]

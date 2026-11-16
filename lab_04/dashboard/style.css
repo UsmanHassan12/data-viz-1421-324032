@@ -1,0 +1,20 @@
+
+body { background: #ccc; font-family: sans-serif; }
+div.dev { border: solid 1px red; }
+div.dev div { border: dashed 1px green; }
+div#chart-holder { width: 720px; background: white; margin: auto; }
+div#header { padding: 0 10px; }
+div#chart-components { height: 320px; position: relative; }
+div#main, div#sidebar { position: absolute; }
+div#main { width: 75%; height: 100%; background: #eee; }
+div#sidebar { right: 0; width: 25%; height: 100%; font-size: 13px; }
+div#sidebar p { margin: 8px 10px; }
+div#sidebar .number { font-size: 18px; font-weight: bold; color: #0F6E7C; }
+div#sidebar #note { font-size: 11px; color: #555; }
+
+#bars .bar { fill: #0F6E7C; }
+#bars .bar.low { fill: red; }
+#bars text { font-size: 10px; }
+#bars text.name, #bars text.tick { text-anchor: end; }
+#bars line.axis { stroke: #555555; }
+#bars line.pass { stroke: #555555; stroke-dasharray: 5 4; }
